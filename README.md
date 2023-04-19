@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeymaAtmaca
-- 👀 I’m interested in Computer Vision | Information and Network security 
+- 👀 I’m interested in Information and Network security  | Computer Vision
 - 🌱 I’m currently learning Python and JavaScript languages, Web Development, Machine Learning, Shell Script and Linux
 - 💞️ I’m looking to collaborate on Web - Python Developing and Machine Learning for Security
 
