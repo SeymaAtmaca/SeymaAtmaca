@@ -1,32 +1,56 @@
-- 👋 Hi, I’m @SeymaAtmaca
-- 👀 I’m interested in Information and Network security  | Computer Vision
-- 🌱 I’m currently learning Python and JavaScript languages, Web Development, Machine Learning, Shell Script and Linux
-- 💞️ I’m looking to collaborate on Web - Python Developing and Machine Learning for Security
+ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://github.com/user-attachments/assets/26275574-c5d9-4e00-9566-b275393de8ca)
 
-
-<!---
-SeymaAtmaca/SeymaAtmaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+ - 👋 Hi, I’m Seyma Atmaca
 <br><br>
-<h3 align="left">Languages and Tools:</h3>
+<table width="100%" >
+  <tr>
+    <td valign="top" width="600px">
+      <p><strong>👀 Languages and Tools</strong></p>
+      <p>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+               alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+               alt="c" width="40" height="40"/>
+        </a>
+        <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
+               alt="javascript" width="40" height="40"/>
+        </a>
+        <!-- Diğer ikonlar -->
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <p><strong>🌱 Backend</strong></p>
+      <p>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+               alt="mongodb" width="40" height="40"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+               alt="mysql" width="40" height="40"/>
+        </a>
+        <!-- Diğer ikonlar -->
+      </p>
+    </td>
+  </tr>
+</table>
 
 
-
-* <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/bash.svg" alt="bash" width="40" height="40"/> </a><a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-
-<br>
-
-* <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-
-<br>
-
-* <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
-  
+- 💞️ Visitor count:<br><br>
+  ![Visitor Count](https://profile-counter.glitch.me/SeymaAtmaca/count.svg)
 <br><br>
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeymaAtmaca&layout=compact)](https://github.com/SeymaAtmaca) ---!>
+
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeymaAtmaca&theme=dark"
+    alt="Şeyma Atmaca • GitHub Summary"
+  />
+</p>
+
+
 
