@@ -1,4 +1,4 @@
-        <!--  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://github.com/user-attachments/assets/26275574-c5d9-4e00-9566-b275393de8ca)-->
+   
 
  - 👋 Hi, I’m Seyma Atmaca
 <br><br>
