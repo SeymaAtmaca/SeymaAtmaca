@@ -40,9 +40,7 @@
 </table>
 
 
-- 💞️ Visitor count:<br><br>
-  ![Visitor Count](https://profile-counter.glitch.me/SeymaAtmaca/count.svg)
-<br><br>
+
 
 
 <p align="left">
