@@ -63,7 +63,7 @@ I am a **Data Scientist & Machine Learning Engineer** with a strong focus on **P
 
 ## 📬 Contact
 
-- LinkedIn: [Seyma Atmaca](https://www.linkedin.com/in/seymaatmaca/)
+- LinkedIn: [Seyma Atmaca](https://www.linkedin.com/in/%C5%9Feyma-atmaca-925b57195/)
 
 ---
 
