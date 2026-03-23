@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Seyma Atmaca
 
-I am a **Data Scientist & Machine Learning Engineer** with a strong focus on **Python, AI, and Data Engineering**. I work on projects involving **classification, deep learning, NLP, and computer vision**.
+I am a **AI Engineer** with a strong focus on **Python, AI, and Data Engineering**. I work on projects involving **classification, deep learning, NLP, and computer vision**.
 
 ---
 
